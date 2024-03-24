@@ -1,3 +1,17 @@
 .web-name {
   text-align: center;
 }
+#nav-bar {
+  position: fixed;
+  top: 0;
+}
+
+ul{
+  margin: 75px;
+
+}
+
+li{
+  display: inline-block;
+
+}
