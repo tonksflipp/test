@@ -1,8 +1,10 @@
 .title1 {
   text-size: 20px;
 }
+.topnav, .title1
+{display: inline-block;}
 .topnav{
-  display: inline-block;
+  
   align: top-right;
 }
 
