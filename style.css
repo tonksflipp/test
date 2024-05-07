@@ -1,12 +1,12 @@
-.title1 {
+#title {
   text-size: 20px;
+  text-align: left;
 }
-.topnav, .title1
-{display: inline-block;}
-.topnav{
+#topnav {
+
+}
   
-  align: top-right;
-}
+ 
 
   
     
