@@ -1,10 +1,9 @@
-span {
-  width: auto;
-}
 h1 {
-width: auto;
+  display: inline;
 }
-  
+nav {
+  display: inline;
+}
     
    
    
