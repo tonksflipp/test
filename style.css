@@ -1,10 +1,14 @@
-span, h1 {
-  display: inline;
+#title {
+  display: inline-block;
 }
-nav {
-  display: inline;
+#navbar {
+  display: inline-block;
 }
-    
+
+span {
+  padding: 20px;
+}
+
    
    
     
